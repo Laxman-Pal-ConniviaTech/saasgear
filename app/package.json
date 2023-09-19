@@ -24,7 +24,7 @@
     "draft-js": "^0.11.7",
     "draftjs-to-html": "^0.9.1",
     "fb": "^2.0.0",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql.macro": "^1.4.2",
     "html-to-draftjs": "^1.5.0",
     "i18next": "^22.5.1",
