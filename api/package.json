@@ -23,7 +23,7 @@
   "dependencies": {
     "@sentry/node": "^7.54.0",
     "apollo-server-express": "^2.19.0",
-    "axios": "^1.4.0",
+    "axios": "^1.6.8",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.2",
     "bunyan": "^1.8.15",
@@ -37,7 +37,7 @@
     "graphql": "^16.6.0",
     "graphql-resolvers": "^0.4.2",
     "handlebars": "^4.7.7",
-    "jsonwebtoken": "^9.0.0",
+    "jsonwebtoken": "^9.0.2",
     "knex": "^2.4.2",
     "link-module-alias": "^1.2.0",
     "lodash": "^4.17.21",
