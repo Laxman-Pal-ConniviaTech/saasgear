@@ -38,7 +38,7 @@
     "react-draft-wysiwyg": "^1.15.0",
     "react-helmet": "^6.1.0",
     "react-hook-form": "^7.44.3",
-    "react-i18next": "^12.3.1",
+    "react-i18next": "^15.5.3",
     "react-redux": "^8.0.7",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^5.0.1",
