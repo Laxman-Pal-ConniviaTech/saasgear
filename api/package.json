@@ -40,7 +40,7 @@
     "jsonwebtoken": "^9.0.0",
     "knex": "^2.4.2",
     "link-module-alias": "^1.2.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mailgun-js": "^0.22.0",
     "mjml": "^4.14.1",
     "morgan": "^1.10.0",
